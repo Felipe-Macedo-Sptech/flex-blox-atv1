@@ -14,11 +14,12 @@ h1 {
 }
 
 .pai {
-    width: 80%;
+    width: 330px;
     height: 350px;
     margin: auto;
     background-color: antiquewhite;
     border: solid 2px #212427;
+    border-right: antiquewhite;
 
     display: flex;
     justify-content: space-around;
